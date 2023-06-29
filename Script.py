@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/Tamilan444>JS</a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Gowthaman2008>𝙶𝙾𝚆𝚃𝙷𝙰𝙼𝙰𝙽</a>
+✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Tamilan444>JS</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -11,14 +11,12 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """
-<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
+<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Tamilan444>JS💥</a>
 
-📍ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ
-📍ғᴏʀ ʀᴇᴘᴏ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ
-📍ᴄʜᴇᴀᴘ ᴘʀɪᴄᴇ
+📍JOIN TAMILMVWORLD
 
-❣️ Dᴏɴᴀᴛᴇ Dᴇᴠᴇʟᴏᴘᴇʀ : 
-      👉<a href=https://paytm.me/A-3pR8p>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>👈
+❣️ JOIN : 
+      👉<a href=https://t.me/Tamilan444>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>👈
 </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
