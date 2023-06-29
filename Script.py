@@ -31,7 +31,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/movies_tamizhaass https://t.me/Tamilan444</code>
+<code>/batch https://t.me/TamilMvWorld https://t.me/Tamilan444</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamilan444><b>JS</b></a>"""
     
